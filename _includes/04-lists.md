@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Here are some of my favorite vacations.
+1. The Beach
+2. Camping 
+3. Florida
